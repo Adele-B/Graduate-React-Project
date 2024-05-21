@@ -4,6 +4,9 @@
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 html {
@@ -12,4 +15,10 @@ html {
 
 body {
   box-sizing: border-box;
+}
+
+main {
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
