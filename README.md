@@ -12,7 +12,7 @@ It contains a sample form which can be viewed in the browser.
 
 ## Getting started
 
-**1. Clone this repo**
+**1. Download this repo**
 
 ## Native development
 **2. Install package dependencies**
