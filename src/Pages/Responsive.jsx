@@ -12,16 +12,16 @@ const Responsive = () => {
       </div>
       <div className="flex-parent-element">
         <div className="flex-child-element">
-          <p className="paragraph margin-left">Column 1</p>
+          <p className="paragraph margin-left">Box 1</p>
         </div>
         <div className="flex-child-element">
-          <p className="paragraph margin-left">Column 2</p>
+          <p className="paragraph margin-left">Box 2</p>
         </div>
         <div className="flex-child-element">
-          <p className="paragraph margin-left">Column 3</p>
+          <p className="paragraph margin-left">Box 3</p>
         </div>
         <div className="flex-child-element">
-          <p className="paragraph margin-left">Column 4</p>
+          <p className="paragraph margin-left">Box 4</p>
         </div>
       </div>
       <div className="table-container">
